@@ -1,0 +1,10 @@
+metric,value,measurement,definition
+reporting_period,2026-10-01 to 2026-10-31,date range,Meta account insights export
+views,219367,sum of daily views,Daily total; not unique people
+reach,44761,sum of daily reach,Daily reach summed; NOT unique monthly reach
+content_interactions,2463,sum of daily interactions,Daily total
+profile_visits,808,sum of daily profile visits,Daily total
+link_clicks,11,sum of daily link clicks,Daily total
+follows,121,sum of daily follows,Daily export contains 27 dated records
+published_stories,64,count,Published content export
+published_posts_and_reels,39,count,Published content export

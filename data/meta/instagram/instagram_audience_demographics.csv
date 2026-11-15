@@ -1,0 +1,33 @@
+dimension,category,percentage
+countries,United States,73.0
+countries,Canada,5.0
+countries,United Kingdom,2.5
+countries,Spain,1.4
+countries,Italy,1.3
+countries,Australia,1.2
+countries,France,1.2
+countries,Germany,0.9
+countries,Argentina,0.9
+countries,New Zealand,0.8
+cities,"New York, NY",6.8
+cities,"Newport, RI",1.6
+cities,"Halifax, NS, Canada",1.3
+cities,"Oyster Bay, NY",1.2
+cities,"Chicago, IL",0.9
+cities,"Annapolis, MD",0.8
+cities,"Boston, MA",0.8
+cities,"Charleston, SC",0.8
+cities,"Bayville, NY",0.8
+cities,"San Diego, CA",0.7
+age_gender,18-24 - Men,8.2
+age_gender,18-24 - Women,3.7
+age_gender,25-34 - Men,16.4
+age_gender,25-34 - Women,6.7
+age_gender,35-44 - Men,13.8
+age_gender,35-44 - Women,7.3
+age_gender,45-54 - Men,11.7
+age_gender,45-54 - Women,6.8
+age_gender,55-64 - Men,9.5
+age_gender,55-64 - Women,7.3
+age_gender,65+ - Men,5.9
+age_gender,65+ - Women,2.7
