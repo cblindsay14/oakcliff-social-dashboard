@@ -1,0 +1,2 @@
+campaign_name,send_date,recipients_attempted,successful_deliveries,delivery_rate_pct,unique_opens,open_rate_pct,total_opens,unique_clickers,click_rate_pct,total_clicks,bounced,bounce_rate_pct,unsubscribed,unsubscribe_rate_pct,clicks_per_unique_open_pct
+Applications Open,2026-10-30,11141,10775,97.0,2825,25.0,5051,323,3.0,952,116,1.0,20,0.2,11.0
