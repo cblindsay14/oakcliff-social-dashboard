@@ -1,0 +1,23 @@
+metric,content_format,value
+views,Reels,73938
+views,Photo,19104
+views,Multi photo,13928
+views,Links,8098
+views,Stories,6233
+views,Multi media,554
+views,Live,102
+views,Others,53
+views,Text,16
+content_interactions,Reels,1318
+content_interactions,Links,143
+content_interactions,Photo,128
+content_interactions,Stories,102
+content_interactions,Multi photo,100
+content_interactions,Others,15
+content_interactions,Multi media,2
+content_interactions,Live,1
+published_content,Stories,38
+published_content,Reels,35
+published_content,Photos,10
+published_content,Links,2
+published_content,Live,1

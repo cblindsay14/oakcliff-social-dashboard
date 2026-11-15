@@ -1,0 +1,27 @@
+section,category,men_pct,women_pct,share_pct
+age_gender,18-24,1.0,0.6,
+age_gender,25-34,10.1,4.6,
+age_gender,35-44,11.3,5.1,
+age_gender,45-54,12.4,7.4,
+age_gender,55-64,14.9,10.2,
+age_gender,65+,15.2,7.2,
+top_cities,"New York, NY",,,4.7
+top_cities,"Newport, RI",,,1.2
+top_cities,"Chicago, IL",,,1.0
+top_cities,"Oyster Bay, NY",,,1.0
+top_cities,"Annapolis, MD",,,0.8
+top_cities,"San Diego, CA",,,0.8
+top_cities,"Auckland, New Zealand",,,0.7
+top_cities,"Sydney, NSW, Australia",,,0.7
+top_cities,"Toronto, ON, Canada",,,0.7
+top_cities,"Bayville, NY",,,0.6
+top_countries,United States,,,69.9
+top_countries,Canada,,,4.4
+top_countries,United Kingdom,,,2.7
+top_countries,Australia,,,2.0
+top_countries,France,,,1.6
+top_countries,Italy,,,1.6
+top_countries,New Zealand,,,1.1
+top_countries,Poland,,,1.0
+top_countries,Spain,,,1.0
+top_countries,Sweden,,,0.8

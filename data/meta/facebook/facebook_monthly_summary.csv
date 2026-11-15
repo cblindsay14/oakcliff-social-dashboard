@@ -1,0 +1,2 @@
+platform,reporting_month,page_name,unique_viewers_daily_sum,content_interactions_daily_sum,link_clicks_daily_sum,page_visits_daily_sum,new_follows_daily_sum,views_partial_period_oct17_oct31,views_export_start_date,views_export_end_date,views_full_month_available,shares_metric_available,notes
+Facebook,2026-10,Oakcliff Sailing,60353,1809,230,2593,82,62681,2026-10-17,2026-11-13,False,False,"Daily unique viewers are summed across days, not unique monthly people. Views export covers 2026-10-17 through 2026-11-13, so October views are partial (2026-10-17 through 2026-10-31)."
